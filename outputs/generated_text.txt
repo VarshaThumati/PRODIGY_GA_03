@@ -1,0 +1,10 @@
+PRODIGY TASK 03 - MARKOV CHAIN TEXT GENERATION
+=======================================================
+
+Starting phrase: artificial
+
+1. artificial intelligence has become an important part of data science because it allows systems to learn patterns from an existing collection of sentences called a corpus.
+2. artificial intelligence has become an important part of data science because it allows systems to learn patterns from an existing collection of sentences called a corpus.
+3. artificial intelligence has become an important part of data science because it allows systems to learn patterns from an existing collection of text and generate new text based on those patterns.
+4. artificial intelligence has become an important part of data science because it allows systems to learn patterns from data and make useful predictions.
+5. artificial is frequently followed by the word artificial is frequently followed by the word artificial is frequently followed by the word artificial is frequently followed by the word intelligence, the model can learn.
