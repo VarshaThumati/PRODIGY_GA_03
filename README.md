@@ -64,6 +64,7 @@ Example:
 
 ```text
 Enter a starting word or phrase: artificial
+```
 ---
 
 ## 🛠️ Technology Stack
